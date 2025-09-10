@@ -11,5 +11,5 @@
   - Second
      + Third
 - [x] #123
-- [] https://scratch.mit.edu/
-- [] Add delight to experience
+- [x] https://scratch.mit.edu/
+- [x] Add delight to experience
