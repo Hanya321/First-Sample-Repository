@@ -4,8 +4,8 @@
 ***This text is both italic and bold***\
 ~~OOPS I made error~~
 > hanya
--10
-+11
-*12
+- 10
++ 11
+* 12
 > 
 
